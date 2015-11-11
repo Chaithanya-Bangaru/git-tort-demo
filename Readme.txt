@@ -1,2 +1,2 @@
-readme content added
-2nd line readme content added
+Readme file about current project
+appending read me with ssh pageant disabled
