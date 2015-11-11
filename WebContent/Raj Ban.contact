@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c:contact c:Version="1" xmlns:c="http://schemas.microsoft.com/Contact" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:MSP2P="http://schemas.microsoft.com/Contact/Extended/MSP2P">
+	<c:CreationDate>2015-11-11T20:40:36Z</c:CreationDate><c:Extended xsi:nil="true"/>
+	<c:ContactIDCollection><c:ContactID c:ElementID="c94c691f-b738-485b-956f-ec7f34470a7e"><c:Value>15b51e0b-7dce-414a-ade7-63af0ac51e38</c:Value></c:ContactID></c:ContactIDCollection><c:NameCollection><c:Name c:ElementID="ad38397d-0599-4d8f-8a7a-d14d2e99609c"><c:FormattedName>Raj Ban</c:FormattedName><c:FamilyName>Ban</c:FamilyName><c:GivenName>Raj</c:GivenName></c:Name></c:NameCollection><c:PhotoCollection><c:Photo c:ElementID="2d62f64c-d7b9-4f7b-a9b3-36ef5f85221a"><c:LabelCollection><c:Label>UserTile</c:Label></c:LabelCollection></c:Photo></c:PhotoCollection></c:contact>
